@@ -1,0 +1,8 @@
+{
+  "name": "Aurelia Grand Resort & Casino",
+  "description": "Where Luxury Meets Excitement. A premier 5-star luxury coastal resort and private casino featuring bespoke suites, high-limit gaming salons, Michelin-inspired dining, and serene thermal wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
